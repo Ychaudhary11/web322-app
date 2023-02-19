@@ -1,0 +1,27 @@
+.not-found-heading-1 {
+    font-size: 8rem;
+    font-weight: 700;
+}
+
+.not-found-heading-2 {
+    font-size: 2rem;
+}
+  
+.not-found-page {
+    height: 80vh;
+}
+  
+  
+.not-found-err-img {
+    width: 400px;
+}
+  
+.error-content-box {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+    
+.not-found-home-link .not-found-btn:hover {
+    color: #fffffe;
+}
